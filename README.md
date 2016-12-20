@@ -1,4 +1,4 @@
-# sso-jwt-php
+# jwt-php
 ## Features
 - Encode JWT token
 
